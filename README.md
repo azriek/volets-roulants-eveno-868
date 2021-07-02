@@ -1,5 +1,5 @@
 # volets-roulants-eveno-868
-Projet de domotisation de volets roulant eveno 868 MHz, multi zone à partir d'une seule télécommande
+Projet de domotisation de volets roulant eveno 868 MHz (également Profalux ? Bubendorff ? ), multi zone à partir d'une seule télécommande
 
 En bref, l'idée à étudier:
 - Contrôle sur les boutons d'une télécommande officielle avec des optocoupleur
